@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:fc2313aba269124c4f2192a10458f034$ -->
+<TextureAtlas imagePath="working_tileset_atlas.png">
+    <SubTexture name="bridges" x="2" y="2" width="256" height="288"/>
+    <SubTexture name="dirt" x="260" y="2" width="160" height="256"/>
+    <SubTexture name="dirt2" x="422" y="2" width="160" height="256"/>
+    <SubTexture name="grass" x="584" y="2" width="160" height="256"/>
+    <SubTexture name="grassalt" x="746" y="2" width="160" height="256"/>
+    <SubTexture name="hole" x="2" y="292" width="160" height="256"/>
+    <SubTexture name="holek" x="164" y="292" width="160" height="256"/>
+    <SubTexture name="holemid" x="326" y="292" width="160" height="256"/>
+    <SubTexture name="house" x="488" y="292" width="352" height="288"/>
+    <SubTexture name="mountains" x="2" y="582" width="448" height="352"/>
+    <SubTexture name="rock" x="452" y="582" width="128" height="96"/>
+    <SubTexture name="signs" x="582" y="582" width="160" height="128"/>
+    <SubTexture name="treetop" x="744" y="582" width="256" height="288"/>
+    <SubTexture name="trunk" x="2" y="936" width="256" height="160"/>
+    <SubTexture name="water" x="260" y="936" width="160" height="256"/>
+    <SubTexture name="waterfall" x="422" y="936" width="160" height="224"/>
+    <SubTexture name="watergrass" x="584" y="936" width="160" height="256"/>
+</TextureAtlas>

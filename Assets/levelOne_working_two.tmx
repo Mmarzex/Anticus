@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="38" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="working_tileset" tilewidth="32" tileheight="32">
+  <image source="working_tileset.png" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="1025" name="working_tileset_two" tilewidth="32" tileheight="32">
+  <image source="working_tileset_two.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="base" width="50" height="38">
+  <data encoding="base64" compression="zlib">
+   eJztw7ENAAAMAiDTd/1/94tOkNBLqqqqqqqqqur7AX2PKSo=
+  </data>
+ </layer>
+ <layer name="top" width="50" height="38">
+  <data encoding="base64" compression="zlib">
+   eJztWFsOwjAMy/gdN+HonAQYJxmHQGhFioKTdlm6h6ilyijQOpmXdoyoYc+4dxM/El/pl9ceHwwpn2cXWOyBcEs8Ml57cP1hYT1b5I/q8IL7sYc6lvrBITVQHH3v1eLshfQD6VhxeU29PmzRH2ieXKNED7EXmh8luVs1zvGBx6P8QGujvOQcmRtaR9ufInrN2q+0/K2c5Bwiu45afnh7Ntc7SA/pelHr/LDWlHVwrtUfc66Tda+RiGvshXV+RHsj10a81vnhXZtryBhnL0qed7X43D6x8o/ygyO3/yy9x6w6vED9kdOP8ghxjf1K6kQOrksi5oHlR2n+Hmj1RJ/nmp41L8IfL7b+P0jic+R+dUSM6T1R7+Cowdd9/el7qy/608SXTufcQL/T5vI40juf6tXa0NDQ0NBwdLwBT9zzjw==
+  </data>
+ </layer>
+ <objectgroup name="collisions" width="50" height="38">
+  <object x="99" y="20" width="28" height="427"/>
+  <object x="131" y="417" width="571" height="30"/>
+  <object x="675" y="18" width="29" height="395"/>
+  <object x="131" y="17" width="540" height="30"/>
+ </objectgroup>
+ <layer name="water" width="50" height="38">
+  <data encoding="base64" compression="zlib">
+   eJzt0dkJAjEUQNEh1bj24dqHivahoH249qGj9iTi/ZAh+VQyzD0QLu8vySsKSZLUNK3waZt2aDcx92g//Od+TTPgX4d0RMeJeUKnNdjHIsRPzmbcb06/7xx7x5KuMn9XSu77WHO/TWIH1X1s6S7zd9XVnn890CM9Reb3OTNf3MfPXPnbGy3pnT4qfboLSZIkScrOCxwDG8c=
+  </data>
+ </layer>
+ <layer name="holes" width="50" height="38">
+  <data encoding="base64" compression="zlib">
+   eJzt0bsJgEAUBdFVn1ZgA377UND+SzJwIkEDEZOdkwxstNyXkiRJkvSdIs6WtKJBa9rEv//KVcfOPR3oSCc6P9yjvVTvLey83uy98b57D0mSJEmSsnEAEmUCiQ==
+  </data>
+ </layer>
+ <layer name="entrance" width="50" height="38">
+  <data encoding="base64" compression="zlib">
+   eJztzrcNgAAQBMGLMY1gGsE0guk/JdkeHsSO9Fp9dokkSZL0Dg3X8ne0r5nzewMd6UTngi1KFrrSje4FW5Qc9KQXvQu2SJIkSZK+7QEFpQPD
+  </data>
+ </layer>
+</map>

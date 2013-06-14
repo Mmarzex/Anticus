@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="38" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="tiles" tilewidth="16" tileheight="16">
+  <image source="tiles.png" width="64" height="16"/>
+  <tile id="0">
+   <properties>
+    <property name="name" value="air"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="name" value="dirt_resize"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="name" value="grass_top_resize"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="name" value="grass"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Tile Layer 1" width="50" height="38">
+  <data encoding="base64" compression="zlib">
+   eJzt07EJADAIRUFD9t85E6RIEFS44vr3QVdELAAAAAAYbH+obs7cXt2Q0Vq546frdkddd7z2ddlx+90Jdz+hEYAeDpsgB60=
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="50" height="38">
+  <data encoding="base64" compression="zlib">
+   eJzt08sKwCAMRFFR//+b3ZaCiTTNA7kHZinJQGwNAAAAAAAAQFXzYyr4Y5/MPh6zo/t4z6p0byfGI28Ve4xNNNYuu7nRmcb3XUgk7Z9Ie0q7au+qxSp7/4zb8XBDhxstN8IB5w==
+  </data>
+ </layer>
+</map>

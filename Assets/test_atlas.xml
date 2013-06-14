@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:6271b3ef4390e1193ea8794f8d95aff0$ -->
+<TextureAtlas imagePath="test_atlas.png">
+    <SubTexture name="working_tileset" x="2" y="2" width="1088" height="1088"/>
+    <SubTexture name="working_tileset_two" x="1092" y="2" width="1088" height="1088"/>
+</TextureAtlas>
