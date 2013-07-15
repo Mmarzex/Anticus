@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
-<!-- $TexturePacker:SmartUpdate:7b1cf428fc42e73e79429d6e5e6bffd0$ -->
+<!-- $TexturePacker:SmartUpdate:b2026086a18b1742dec6775533f2c7b8$ -->
 <TextureAtlas imagePath="tile_atlas.png">
     <SubTexture name="air" x="2" y="2" width="16" height="16"/>
     <SubTexture name="dirt_resize" x="20" y="2" width="16" height="16"/>
